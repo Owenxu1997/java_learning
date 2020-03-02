@@ -2,6 +2,7 @@ package set;
 import java.util.*;
 /**
  * this program uses set to print out the amount of unique words in a file
+ * @version 1.0 2020-3-2
  * @author owenxu
  *
  */
