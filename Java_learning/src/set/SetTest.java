@@ -27,7 +27,7 @@ public class SetTest {
 		for(int i = 0; i < 20 && iter.hasNext(); i++)
 			System.out.println(iter.next());
 		System.out.println("...");
-		System.out.println(words.size() + "unique words, " + totalTime + "miliseconds used.");
+		System.out.println(words.size() + " unique words, " + totalTime + " miliseconds used.");
 	}
 
 }
