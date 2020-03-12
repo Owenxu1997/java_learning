@@ -24,5 +24,6 @@ public class StackTraceTest
 		System.out.print("输入n: ");
 		int n = in.nextInt();
 		factorial(n);
+		in.close();
 	}
 }
