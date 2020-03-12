@@ -61,6 +61,6 @@ class Employee
 	@Override
 	public String toString()
 	{
-		return "[name=" + name + ", id=" + id + "]";
+		return "[name=" + name + ", id=" + id + "] ";
 	}
 }

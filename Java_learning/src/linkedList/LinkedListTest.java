@@ -45,6 +45,7 @@ public class LinkedListTest
 				bIter.remove();
 			}
 		}
+		
 		System.out.println(b);
 	}
 
